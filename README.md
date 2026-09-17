@@ -18,7 +18,6 @@ Sistem informasi produk berbasis PHP yang digunakan untuk menampilkan informasi 
 ## Teknologi
 
 - PHP
-- HTML
 - XAMPP
 
 ## Cara Menjalankan
